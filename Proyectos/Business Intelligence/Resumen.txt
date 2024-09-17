@@ -1,0 +1,9 @@
+Este proyecto surge tras el cierre de una tienda online de una compañera de la universidad.
+
+Teniendo en cuenta el buen rendimiento en los años que ha estado abierta y la clara descompensación de carga de trabajo a lo largo de
+su vida. Decidí hacer un estudio analítico mediante herramientas que nos proporcionan algunas librerías de python como pandas, matplotlib,
+sklearn, etc. para demostrarle que podría abrir la tienda ocasionalmente aprovechando ciertos eventos. Para ello, en primer lugar uní los
+datasets que me cedió de sus ventas en los últimos años y tras limpieza, análisis de datos, comparaciones con otros datasets, análisis
+temporales, eventuales, etc. llegamos a una conclusión.
+
+En los distintos directorios del proyecto se podrá seguir ese análisis y comprobar tanto los datos de partida como las conclusiones.
