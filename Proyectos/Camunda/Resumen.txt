@@ -1,0 +1,12 @@
+El zip del proyecto contiene el directorio completo con el que ejecuto Camunda desde Eclipse.
+
+Desde mi punto de vista, lo más interesante sobre el proyecto se encuentra en la carpeta general de "Apuntes y tutoriales", ya que
+realicé una serie de videos explicando como utilizar la aplicación para sacar el mayor potencial a esta y evitar errores que harán
+que pierdas tiempo, ya que la documentación y la explicación de errores es escasa e inexacta.
+
+En cuanto al proyecto, consta de una paralelización de procesos definidos en distintas pools, conectados entre sí y comunicándose
+mediantes tareas automatizadas y tareas de paralelización, que hacen que se activen los distintos procesos, en base a la necesidad
+de la ejecución de las distinrtas pools.
+
+Aunque Camunda tiene una curva de aprendizaje bastante pronunciada si se quiere ejecutar mediante scripts, con la ayuda de el gpt
+dedicado e investigando por distintos foros, se convierte en una gran herramienta para la creación de procesos complejos.
