@@ -1,0 +1,10 @@
+﻿  OpenMP.cpp
+C:\ASD_PROY_CON_OPMP\Proyecto_con_openMP_Montecarlo\Proyecto_con_openMP\OpenMP.cpp(10,15): warning C4101: 'y': variable local sin referencia
+C:\ASD_PROY_CON_OPMP\Proyecto_con_openMP_Montecarlo\Proyecto_con_openMP\OpenMP.cpp(12,18): warning C4101: 'pi': variable local sin referencia
+C:\ASD_PROY_CON_OPMP\Proyecto_con_openMP_Montecarlo\Proyecto_con_openMP\OpenMP.cpp(12,12): warning C4101: 'step': variable local sin referencia
+C:\ASD_PROY_CON_OPMP\Proyecto_con_openMP_Montecarlo\Proyecto_con_openMP\OpenMP.cpp(10,12): warning C4101: 'x': variable local sin referencia
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Proyecto_con_openMP.vcxproj -> C:\ASD_PROY_CON_OPMP\Proyecto_con_openMP_Montecarlo\Release\Proyecto_con_openMP.exe

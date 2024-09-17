@@ -1,0 +1,4 @@
+﻿  OpenMP.cpp
+C:\ASD_PROY_CON_OPMP\Proyecto_con_openMP\Proyecto_con_openMP\OpenMP.cpp(14,18): warning C4101: 'pi': variable local sin referencia
+C:\ASD_PROY_CON_OPMP\Proyecto_con_openMP\Proyecto_con_openMP\OpenMP.cpp(14,12): warning C4101: 'step': variable local sin referencia
+  Proyecto_con_openMP.vcxproj -> C:\ASD_PROY_CON_OPMP\Proyecto_con_openMP\x64\Debug\Proyecto_con_openMP.exe

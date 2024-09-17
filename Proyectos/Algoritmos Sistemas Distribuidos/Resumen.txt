@@ -1,0 +1,18 @@
+Este proyecto consta del estudio de dos algoritmos aplicando distintas técnicas de optimización.
+
+En cuanto la estructura de del directorio, tengo varias carpetas, la primera "Códigos", contiene los códigos en C, que utilizaré
+para las ejecuciones del algoritmo, tanto sin optimización, como con esta. La segunda "Gráficas", contiene las gráficas extraídas
+de la ejecución del algoritmo y su suavizado para facilitar su visualización. La tercera "Resultados", contiente los resultados de
+las estimaciones del algoritmo. La cuarta "Resultados_csv", contiene los resultados anteriores volcados en formato csv. Y por último
+el fichero "Código generalizado", consta de un archivo en python con el que realizo los tratamientos sobre los resultados adquiridos,
+todos los procesos realizados en el tratamiento, tanto de limpieza de datos, análisis de datos, creación e interpretación de gráficas
+están explicados línea a línea en dicho documento.
+
+El primero de estos algoritmos(básico), consta de una estimación de pi utilizando rectángulos, el segundo es una estimación de pi
+utilizando el algoritmo de Montecarlo.
+
+Para el estudio de estos algoritmos primero estimo los tiempos de ejecución con el código básico(sin utilizar ningún tipo de 
+paralización), tras esto realizo la estimación utilizando la librería de openMP para C, paralelizando el algoritmo hasta en 
+16 hilos, además compruebo la estimación del algoritmo usando utilizando la librería de MPI, aprovechando una máquina virtual
+con acceso a un cluster consiguiendo paralelizar la ejecución hasta en 8 partes, por último, hay unas pruebas extras en las que
+paralelizo el código utilizando ambas técnicas y consiguiendo exprimir al máximo el potencial de ambas.
