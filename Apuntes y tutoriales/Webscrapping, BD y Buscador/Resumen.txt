@@ -1,0 +1,5 @@
+Este directorio contiene un PDF con algunos datos curiosos a tener en cuenta a la hora de hacer scrapping con BeautifullSoup, 
+organizar la información mediante Whoosh y realizar menús de búsqueda con Tkinter.
+
+En cuanto a los directorios, estos contienen algunos ejemplos comentados línea a línea, para entender cómo funciona el código
+en su plenitud. Para el uso de las librerías comentadas anteriormente usaré Python.
