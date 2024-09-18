@@ -1,0 +1,1 @@
+En este directorio se encuentran distintas prácticas propuestas por la universidad, para entender y ejecutar tratamiento de imágenes
